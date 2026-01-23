@@ -1,5 +1,6 @@
 my_tuple = (20, 40, 60, 80, 100, 65)
-print("My tuple:", my_tuple)
+print(f"My tuple: {my_tuple}")
+
 #ACCESSING
 print(f"1. First element: {my_tuple[0]}\n2. Third element: {my_tuple[2]}\n3. Last element: {my_tuple[-1]}")
 
