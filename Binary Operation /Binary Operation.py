@@ -1,3 +1,3 @@
-with open("file.png", "r") as f:
+with open("file.png", "rb") as f:
     image = f.read()
     print(image)
